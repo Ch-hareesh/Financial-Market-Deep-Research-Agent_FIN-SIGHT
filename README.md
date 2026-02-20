@@ -26,8 +26,8 @@
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/fin-sight.git
-cd fin-sight
+git clone https://github.com/Ch-hareesh/Financial-Market-Deep-Research-Agent-FIN-SIGHT-.git
+cd Financial-Market-Deep-Research-Agent-FIN-SIGHT-
 ```
 
 ### 2. Install dependencies
