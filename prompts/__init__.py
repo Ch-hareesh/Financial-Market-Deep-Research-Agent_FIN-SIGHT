@@ -1,0 +1,1 @@
+# FIN-SIGHT prompts package
